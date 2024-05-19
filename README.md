@@ -1,7 +1,7 @@
 Hi, I'm Marcelo Landim
 
-I've been working with web development, both front and back end, for the past 7 years or so.
+I've been working with software development, both front and back end, for the past 10+ years.
 
-Besides using javascript (vanilla, node, vue, react ...) and python (on the back end with Flask framework) in day-to-day projects, I'm learning Flutter/Dart 
-and working really hard to understend and practice clean architecture concepts.
+Most of my day-to-day projects involve using Typescript or Javascript (Vanilla, Vue, Angular...) and Python (with Flask framework on the back end). I'm also currently learning Rust 
+and working hard to understand and practice clean architecture concepts.
 
